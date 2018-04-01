@@ -16,3 +16,5 @@ gedit:Dream it possible;
 >>>>>>> dev
 
 git deal with the conflict problem;
+
+Seventh:Dream it possible;
