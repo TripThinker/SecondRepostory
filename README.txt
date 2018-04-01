@@ -7,6 +7,12 @@ Sixth:Dream it possible;
 
 Edit:Dream it possible;
 
+<<<<<<< HEAD
 gedit:Dream it possible;
 
 Creating a new branch is quick & simple.
+=======
+gedit:Dream it possible;
+>>>>>>> dev
+
+git deal with the conflict problem;
